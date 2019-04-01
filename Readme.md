@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Сергей Соколов](https://up.htmlacademy.ru/adaptive/16/user/977285).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Шевченко](https://htmlacademy.ru/profile/id125164).
 
 ---
 
