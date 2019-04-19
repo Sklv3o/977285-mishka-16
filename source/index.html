@@ -105,12 +105,17 @@
       </div>
     </footer>
     <div class="popup">
-      <h2 class="popup-header">Добавить в корзину</h2>
-      <p></p>
-      <button class="popup__btn-size" type="button" name="size-s">S</button>
-      <button class="popup__btn-size" type="button" name="size-m">M</button>
-      <button class="popup__btn-size" type="button" name="size-l">L</button>
-      <button class="btn popup-btn"type="button" name="inbox">Добавить</button>
+      <h2 class="popup__header">Добавить в корзину</h2>
+      <p class="popup__info">Выберите размер</p>
+      <form class="" action="index.html" method="post">
+        <label class="popup__label" for="s">S</label>
+        <input class="popup__input" type="radio" name="size" value="s">
+        <label class="popup__label" for="m">M</label>
+        <input class="popup__input" type="radio" name="size" value="m">
+        <label class="popup__label" for="l">L</label>
+        <input class="popup__input" type="radio" name="size" value="l">
+        <button class="btn popup-btn"type="button" name="inbox">Добавить</button>
+      </form>
     </div>
   </body>
 </html>
